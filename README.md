@@ -1,7 +1,7 @@
 <img src="/.github/github.gif" />
 
 <h1>Github Explorer</h1>
-Explore Github Repositories.
+Explore Github Repositories.</br>
 This app Built on ReactJS with typescript and Styled Components.
 
 <h2>Installation</h2>
