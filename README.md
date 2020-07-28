@@ -1,4 +1,4 @@
-<img src="/.github/github.gif" />
+<img src="/.github/github.gif" width=600 />
 
 <h1>🌎Github Explorer</h1>
 Explore Github Repositories
