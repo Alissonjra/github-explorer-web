@@ -1,8 +1,9 @@
 <img src="/.github/github.gif" />
 
 <h1>🌎Github Explorer</h1>
-Explore Github Repositories.</br>
-This app Built on  [React](https://pt-br.reactjs.org/) with [Typescript](https://www.typescriptlang.org/index.html) and [Styled Components](https://styled-components.com/).
+Explore Github Repositories
+</br>
+This app Built on  React,Typescript and Styled Components.
 
 # :construction_worker: Installation
  Clone this repo:
